@@ -79,3 +79,10 @@
 Это ссылка на \[презентацию](https://gbcdn.mrgcdn.ru/uploads/asset/3382251/attachment/b5c88675c477bd530bd5b532a181cf2f.pdf) с вводной лекции по контролю версий 
 ##### Результат
 Это ссылка на [презентацию](https://gbcdn.mrgcdn.ru/uploads/asset/3382251/attachment/b5c88675c477bd530bd5b532a181cf2f.pdf) с вводной лекции по контролю версий 
+
+#### **Работа с картинками**
+---
+##### Код
+Здесь будет логотип GeekBrains ![Логотип GeekBrains]\(https://mediarost.com/media/com_jbusinessdirectory/pictures/companies/161/cropped-1621097163.jpeg)
+##### Результат
+Здесь будет логотип GeekBrains ![Логотип GeekBrains](https://mediarost.com/media/com_jbusinessdirectory/pictures/companies/161/cropped-1621097163.jpeg)
