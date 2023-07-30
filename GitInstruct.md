@@ -88,6 +88,11 @@
 Здесь будет логотип GeekBrains ![Логотип GeekBrains](https://mediarost.com/media/com_jbusinessdirectory/pictures/companies/161/cropped-1621097163.jpeg)
 
 
+
+
+
+
+
 # Семинар 2
 
 * *git log* - dвывод на экран истории всех коммитов с их хеш-кодами
